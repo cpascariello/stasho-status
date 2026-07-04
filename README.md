@@ -10,11 +10,11 @@ Independent status board for [Stasho](https://app.stasho.xyz), the personal clou
 
 ## What is monitored
 
-| Signal | Meaning when red |
-| --- | --- |
-| **Stasho App** | The IPFS gateway is not serving the app |
-| **Stasho API** | The Stasho backend is unreachable (same probe as the in-app status pill) |
-| **Aleph CCN** | The Aleph network node is not serving reads; deploys and on-chain reads degrade |
+| Signal         | Meaning when red                                                                |
+| -------------- | ------------------------------------------------------------------------------- |
+| **Stasho App** | The IPFS gateway is not serving the app                                         |
+| **Stasho API** | The Stasho backend is unreachable (same probe as the in-app status pill)        |
+| **Aleph CCN**  | The Aleph network node is not serving reads; deploys and on-chain reads degrade |
 
 Deployed user sites are pinned on IPFS and keep serving regardless of what this board shows.
 
