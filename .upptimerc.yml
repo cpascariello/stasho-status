@@ -6,6 +6,7 @@ sites:
     url: https://app.stasho.xyz
   - name: Stasho API
     url: https://api.stasho.xyz/api/health
+    __dangerous__body_down_if_text_missing: '"balanceOk":true'
   - name: Aleph CCN
     url: https://api.aleph.im/api/v0/info/public.json
 
