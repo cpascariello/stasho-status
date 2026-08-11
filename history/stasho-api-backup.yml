@@ -1,7 +1,7 @@
 url: https://api.stasho.xyz/api/health
-status: up
+status: down
 code: 200
-responseTime: 683
-lastUpdated: 2026-08-11T15:55:11.231Z
-startTime: 2026-07-04T12:22:00.200Z
+responseTime: 323
+lastUpdated: 2026-08-11T15:55:24.228Z
+startTime: 2026-08-11T15:55:11.252Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.24%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.00%",
     "time": 726,
     "timeDay": 811,
     "timeWeek": 811,
@@ -37,6 +37,26 @@
       "2026-07-18": 862,
       "2026-07-17": 736,
       "2026-07-26": 48
+    }
+  },
+  {
+    "name": "Stasho API backup",
+    "url": "https://api.stasho.xyz/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
+    "slug": "stasho-api-backup",
+    "status": "up",
+    "uptime": "56.36%",
+    "uptimeDay": "56.36%",
+    "uptimeWeek": "56.36%",
+    "uptimeMonth": "56.36%",
+    "uptimeYear": "56.36%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-11": 0
     }
   },
   {
