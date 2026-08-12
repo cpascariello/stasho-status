@@ -6,7 +6,10 @@ sites:
     url: https://app.stasho.xyz
   - name: Stasho API
     url: https://api.stasho.xyz/api/health
-    __dangerous__body_down_if_text_missing: '"balanceOk":true'
+    __dangerous__body_down_if_text_missing: '"faucet":{"balanceOk":true}'
+  - name: Stasho API drop signer
+    url: https://api.stasho.xyz/api/health
+    __dangerous__body_down_if_text_missing: '"drop":{"balanceOk":true}'
   - name: Stasho API backup
     url: https://api.stasho.xyz/api/health
     __dangerous__body_down_if_text_missing: '"backup":{"ok":true}'
