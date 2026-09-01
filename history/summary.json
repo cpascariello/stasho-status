@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 920,
-    "timeWeek": 855,
-    "timeMonth": 1063,
-    "timeYear": 1059,
+    "time": 1052,
+    "timeDay": 676,
+    "timeWeek": 829,
+    "timeMonth": 1048,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.05%",
-    "time": 703,
-    "timeDay": 749,
-    "timeWeek": 691,
-    "timeMonth": 681,
-    "timeYear": 703,
+    "time": 702,
+    "timeDay": 643,
+    "timeWeek": 684,
+    "timeMonth": 679,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2026-07-18": 862,
       "2026-07-17": 736,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 363,
-    "timeDay": 420,
-    "timeWeek": 385,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 359,
+    "timeDay": 276,
+    "timeWeek": 369,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2026-08-12": 40
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-backup",
     "status": "down",
-    "uptime": "82.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.99%",
-    "uptimeYear": "82.99%",
-    "time": 365,
-    "timeDay": 359,
-    "timeWeek": 371,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "uptime": "82.51%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "82.51%",
+    "uptimeYear": "82.51%",
+    "time": 362,
+    "timeDay": 297,
+    "timeWeek": 360,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2026-08-11": 400,
       "2026-08-16": 660,
@@ -82,7 +82,7 @@
       "2026-08-14": 1440,
       "2026-08-13": 982,
       "2026-08-21": 61,
-      "2026-09-01": 0
+      "2026-09-01": 171
     }
   },
   {
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 1333,
-    "timeWeek": 897,
-    "timeMonth": 776,
-    "timeYear": 813,
+    "time": 810,
+    "timeDay": 670,
+    "timeWeek": 864,
+    "timeMonth": 772,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   }
 ]
