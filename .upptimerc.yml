@@ -59,6 +59,12 @@ status-website:
     body {
       font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
     }
+    /* Homepage shows live status only; past incidents live on each check's
+       detail page (/history/<slug>). Incidents is the last <section> after
+       .live-status on the index route (upptime/status-page index.svelte). */
+    main.container > section.live-status ~ section:last-of-type {
+      display: none;
+    }
     h1, h2, h3, h4, h5, h6 {
       font-family: "Anybody", ui-sans-serif, system-ui, sans-serif;
       font-weight: 700;
