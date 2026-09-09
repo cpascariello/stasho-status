@@ -13,6 +13,12 @@ sites:
   - name: Stasho API backup
     url: https://api.stasho.xyz/api/health
     __dangerous__body_down_if_text_missing: '"backup":{"ok":true}'
+  - name: Stasho API Solana anchor signer
+    url: https://api.stasho.xyz/api/health
+    __dangerous__body_down_if_text_missing: '"anchor":{"address":"2Bhf6sNReQQirMptevFTFTNz1dZcv5owhPYG3jRKHqoD","balanceOk":true}'
+  - name: Stasho API verified frontends signer
+    url: https://api.stasho.xyz/api/health
+    __dangerous__body_down_if_text_missing: '"vf":{"address":"9NW8Q41TLccp4uMAD6Nd5bLR11smCHUTZy9uDdbTUfps","balanceOk":true}'
   - name: Aleph CCN
     url: https://api.aleph.im/api/v0/info/public.json
 
