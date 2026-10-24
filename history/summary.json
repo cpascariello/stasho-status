@@ -22,11 +22,11 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.98%",
     "time": 623,
     "timeDay": 402,
@@ -36,7 +36,8 @@
     "dailyMinutesDown": {
       "2026-07-18": 862,
       "2026-07-17": 736,
-      "2026-07-26": 48
+      "2026-07-26": 48,
+      "2026-10-24": 4
     }
   },
   {
@@ -44,11 +45,11 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-drop-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 284,
     "timeDay": 202,
@@ -56,7 +57,8 @@
     "timeMonth": 163,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2026-08-12": 40
+      "2026-08-12": 40,
+      "2026-10-24": 3
     }
   },
   {
@@ -64,14 +66,14 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-backup",
-    "status": "up",
-    "uptime": "92.51%",
-    "uptimeDay": "87.41%",
-    "uptimeWeek": "95.22%",
+    "status": "down",
+    "uptime": "92.59%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "95.20%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "92.51%",
+    "uptimeYear": "92.59%",
     "time": 287,
-    "timeDay": 151,
+    "timeDay": 142,
     "timeWeek": 122,
     "timeMonth": 160,
     "timeYear": 287,
@@ -87,7 +89,8 @@
       "2026-09-15": 290,
       "2026-09-16": 176,
       "2026-10-22": 301,
-      "2026-10-23": 181
+      "2026-10-23": 181,
+      "2026-10-24": 2
     }
   },
   {
@@ -95,10 +98,10 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-solana-anchor-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
@@ -106,16 +109,18 @@
     "timeWeek": 117,
     "timeMonth": 163,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-24": 1
+    }
   },
   {
     "name": "Stasho API verified frontends signer",
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-verified-frontends-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,7 +129,9 @@
     "timeWeek": 117,
     "timeMonth": 162,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-24": 0
+    }
   },
   {
     "name": "Verified frontends monitor",
@@ -132,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "verified-frontends-monitor",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 82,
     "timeDay": 134,
     "timeWeek": 93,
