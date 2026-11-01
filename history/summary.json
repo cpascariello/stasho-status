@@ -4,30 +4,32 @@
     "url": "https://app.stasho.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/app.stasho.xyz.ico",
     "slug": "stasho-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 951,
     "timeDay": 879,
     "timeWeek": 862,
     "timeMonth": 895,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-01": 9
+    }
   },
   {
     "name": "Stasho API",
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.36%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.53%",
     "time": 611,
     "timeDay": 465,
     "timeWeek": 406,
@@ -38,7 +40,8 @@
       "2026-07-17": 736,
       "2026-07-26": 48,
       "2026-10-25": 724,
-      "2026-10-24": 147
+      "2026-10-24": 147,
+      "2026-11-01": 7
     }
   },
   {
@@ -46,11 +49,11 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-drop-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "92.90%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "99.21%",
     "time": 269,
     "timeDay": 156,
@@ -60,7 +63,8 @@
     "dailyMinutesDown": {
       "2026-08-12": 40,
       "2026-10-25": 724,
-      "2026-10-24": 146
+      "2026-10-24": 146,
+      "2026-11-01": 6
     }
   },
   {
@@ -69,11 +73,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-backup",
     "status": "down",
-    "uptime": "92.36%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "89.95%",
-    "uptimeMonth": "96.59%",
-    "uptimeYear": "92.36%",
+    "uptime": "92.21%",
+    "uptimeDay": "86.94%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "92.21%",
     "time": 273,
     "timeDay": 171,
     "timeWeek": 134,
@@ -94,7 +98,8 @@
       "2026-10-23": 181,
       "2026-10-25": 868,
       "2026-10-24": 145,
-      "2026-10-31": 0
+      "2026-11-01": 14,
+      "2026-10-31": 174
     }
   },
   {
@@ -102,11 +107,11 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-solana-anchor-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.39%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "98.84%",
     "time": 218,
     "timeDay": 156,
@@ -115,7 +120,8 @@
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-10-25": 724,
-      "2026-10-24": 144
+      "2026-10-24": 144,
+      "2026-11-01": 2
     }
   },
   {
@@ -123,10 +129,10 @@
     "url": "https://api.stasho.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stasho.xyz.ico",
     "slug": "stasho-api-verified-frontends-signer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.40%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "92.95%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.84%",
     "time": 217,
@@ -136,7 +142,8 @@
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-10-25": 724,
-      "2026-10-24": 143
+      "2026-10-24": 143,
+      "2026-11-01": 0
     }
   },
   {
